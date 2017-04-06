@@ -1,0 +1,11 @@
+INSTRUCTIONS
+
+1. Upload all files in the "Upload" folder
+2. Modify all links in the "Modify/css" folder to point to the actual files uploaded.
+   You can find the locations to modify by searching "MODIFY THIS". Upload the files
+   after modifying.
+3. Modify the html files in the "Modify" folder to point to the actual files uploaded
+   like in step 2. Additionally, modify the html to say what you want to say.
+4. Paste the HTML into the relevant template elements. "home" should not be pasted in
+   a template element, but instead go to Pages > Home > Source and paste it there.
+5. You're done!
